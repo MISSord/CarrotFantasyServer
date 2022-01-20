@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\App",
+    "\\ET.Core",
+    "\\ET.Core\\Landlords\\Component",
+    "\\ET.Core\\Module",
+    "\\ET.Core\\Module\\Message",
+    "\\Hotfix",
+    "\\Hotfix\\Handler",
+    "\\Hotfix\\Module"
+  ],
+  "SelectedNode": "\\ET.Core\\Module\\Message\\AMRpcHandler.cs",
+  "PreviewInSolutionExplorer": false
+}

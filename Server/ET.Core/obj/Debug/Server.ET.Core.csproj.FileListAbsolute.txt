@@ -1,0 +1,13 @@
+D:\wlm\Landlords_Server01\Bin\libkcp.dylib
+D:\wlm\Landlords_Server01\Bin\libkcp.so
+D:\wlm\Landlords_Server01\Bin\ET.Core.deps.json
+D:\wlm\Landlords_Server01\Bin\ET.Core.dll
+D:\wlm\Landlords_Server01\Bin\ET.Core.pdb
+D:\wlm\Landlords_Server01\Server\ET.Core\obj\Debug\Server.ET.Core.csproj.AssemblyReference.cache
+D:\wlm\Landlords_Server01\Server\ET.Core\obj\Debug\Server.ET.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\wlm\Landlords_Server01\Server\ET.Core\obj\Debug\Server.ET.Core.AssemblyInfoInputs.cache
+D:\wlm\Landlords_Server01\Server\ET.Core\obj\Debug\Server.ET.Core.AssemblyInfo.cs
+D:\wlm\Landlords_Server01\Server\ET.Core\obj\Debug\Server.ET.Core.csproj.CoreCompileInputs.cache
+D:\wlm\Landlords_Server01\Server\ET.Core\obj\Debug\Server.ET.Core.csproj.CopyComplete
+D:\wlm\Landlords_Server01\Server\ET.Core\obj\Debug\ET.Core.dll
+D:\wlm\Landlords_Server01\Server\ET.Core\obj\Debug\ET.Core.pdb
