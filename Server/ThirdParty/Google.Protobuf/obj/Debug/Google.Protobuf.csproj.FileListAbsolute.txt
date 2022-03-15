@@ -100,3 +100,14 @@ D:\wlm\Landlords_Server01\Server\ThirdParty\Google.Protobuf\obj\Debug\Google.Pro
 D:\wlm\Landlords_Server01\Server\ThirdParty\Google.Protobuf\obj\Debug\Google.Protobuf.csproj.CopyComplete
 D:\wlm\Landlords_Server01\Server\ThirdParty\Google.Protobuf\obj\Debug\Google.Protobuf.dll
 D:\wlm\Landlords_Server01\Server\ThirdParty\Google.Protobuf\obj\Debug\Google.Protobuf.pdb
+F:\bishe\CarrotFantasyServer\Bin\Google.Protobuf.deps.json
+F:\bishe\CarrotFantasyServer\Bin\Google.Protobuf.dll
+F:\bishe\CarrotFantasyServer\Bin\Google.Protobuf.pdb
+F:\bishe\CarrotFantasyServer\Server\ThirdParty\Google.Protobuf\obj\Debug\Google.Protobuf.csproj.AssemblyReference.cache
+F:\bishe\CarrotFantasyServer\Server\ThirdParty\Google.Protobuf\obj\Debug\Google.Protobuf.AssemblyInfoInputs.cache
+F:\bishe\CarrotFantasyServer\Server\ThirdParty\Google.Protobuf\obj\Debug\Google.Protobuf.AssemblyInfo.cs
+F:\bishe\CarrotFantasyServer\Server\ThirdParty\Google.Protobuf\obj\Debug\Google.Protobuf.csproj.CoreCompileInputs.cache
+F:\bishe\CarrotFantasyServer\Server\ThirdParty\Google.Protobuf\obj\Debug\Google.Protobuf.csproj.CopyComplete
+F:\bishe\CarrotFantasyServer\Server\ThirdParty\Google.Protobuf\obj\Debug\Google.Protobuf.dll
+F:\bishe\CarrotFantasyServer\Server\ThirdParty\Google.Protobuf\obj\Debug\Google.Protobuf.pdb
+F:\bishe\CarrotFantasyServer\Server\ThirdParty\Google.Protobuf\obj\Debug\Google.Protobuf.GeneratedMSBuildEditorConfig.editorconfig

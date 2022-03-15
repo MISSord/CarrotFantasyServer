@@ -1,0 +1,13 @@
+2022-03-15 12:32:39.1940   System.IO.FileNotFoundException: Could not find file 'F:\bishe\CarrotFantasyServer\Bin\Hotfix.dll'.
+File name: 'F:\bishe\CarrotFantasyServer\Bin\Hotfix.dll'
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize)
+   at System.IO.File.ReadAllBytes(String path)
+   at ETModel.DllHelper.GetHotfixAssembly() in F:\bishe\CarrotFantasyServer\Server\ET.Core\Base\Helper\DllHelper.cs:line 10
+   at App.Program.Main(String[] args) in F:\bishe\CarrotFantasyServer\Server\App\Program.cs:line 18 
+ Main at offset 232 in file:line:column F:\bishe\CarrotFantasyServer\Server\App\Program.cs:18:5
+Error at offset 132 in file:line:column F:\bishe\CarrotFantasyServer\Server\ET.Core\Base\Log.cs:32:4
+Error at offset 64 in file:line:column F:\bishe\CarrotFantasyServer\Server\ET.Core\Base\Logger\NLogAdapter.cs:32:4
+

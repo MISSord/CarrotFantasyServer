@@ -18,6 +18,19 @@ namespace ETHotfix
                 return false;
             }
             return true;
-        } 
+        }
+
+        /// <summary>
+        /// 获取斗地主游戏专用Map服务器的Session
+        /// </summary>
+        /// <returns></returns>
+        public static Session GetMapSession()
+        {
+            StartConfigComponent config = Game.Scene.GetComponent<StartConfigComponent>();
+            IPEndPoint mapIPEndPoint = config.MapConfigs[0].GetComponent<InnerConfig>().IPEndPoint;
+            Log.Debug(mapIPEndPoint.ToString());
+            Session mapSession = Game.Scene.GetComponent<NetInnerComponent>().Get(mapIPEndPoint);
+            return mapSession;
+        }
     }
 }

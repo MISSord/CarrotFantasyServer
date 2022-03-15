@@ -45,3 +45,16 @@ D:\wlm\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Driver\obj\Deb
 D:\wlm\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Driver\obj\Debug\netcoreapp2.2\MongoDB.Driver.dll
 D:\wlm\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Driver\obj\Debug\netcoreapp2.2\MongoDB.Driver.xml
 D:\wlm\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Driver\obj\Debug\netcoreapp2.2\MongoDB.Driver.pdb
+F:\bishe\CarrotFantasyServer\Bin\netcoreapp2.2\MongoDB.Driver.deps.json
+F:\bishe\CarrotFantasyServer\Bin\netcoreapp2.2\MongoDB.Driver.dll
+F:\bishe\CarrotFantasyServer\Bin\netcoreapp2.2\MongoDB.Driver.pdb
+F:\bishe\CarrotFantasyServer\Bin\netcoreapp2.2\MongoDB.Driver.xml
+F:\bishe\CarrotFantasyServer\Server\ThirdParty\MongoDBDriver\MongoDB.Driver\obj\Debug\netcoreapp2.2\MongoDB.Driver.csproj.AssemblyReference.cache
+F:\bishe\CarrotFantasyServer\Server\ThirdParty\MongoDBDriver\MongoDB.Driver\obj\Debug\netcoreapp2.2\MongoDB.Driver.AssemblyInfoInputs.cache
+F:\bishe\CarrotFantasyServer\Server\ThirdParty\MongoDBDriver\MongoDB.Driver\obj\Debug\netcoreapp2.2\MongoDB.Driver.AssemblyInfo.cs
+F:\bishe\CarrotFantasyServer\Server\ThirdParty\MongoDBDriver\MongoDB.Driver\obj\Debug\netcoreapp2.2\MongoDB.Driver.csproj.CoreCompileInputs.cache
+F:\bishe\CarrotFantasyServer\Server\ThirdParty\MongoDBDriver\MongoDB.Driver\obj\Debug\netcoreapp2.2\MongoDB.Driver.csproj.CopyComplete
+F:\bishe\CarrotFantasyServer\Server\ThirdParty\MongoDBDriver\MongoDB.Driver\obj\Debug\netcoreapp2.2\MongoDB.Driver.dll
+F:\bishe\CarrotFantasyServer\Server\ThirdParty\MongoDBDriver\MongoDB.Driver\obj\Debug\netcoreapp2.2\MongoDB.Driver.xml
+F:\bishe\CarrotFantasyServer\Server\ThirdParty\MongoDBDriver\MongoDB.Driver\obj\Debug\netcoreapp2.2\MongoDB.Driver.pdb
+F:\bishe\CarrotFantasyServer\Server\ThirdParty\MongoDBDriver\MongoDB.Driver\obj\Debug\netcoreapp2.2\MongoDB.Driver.GeneratedMSBuildEditorConfig.editorconfig

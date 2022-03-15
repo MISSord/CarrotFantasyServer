@@ -6,6 +6,7 @@ using MongoDB.Bson;
 
 namespace ETHotfix
 {
+    
     [MessageHandler(AppType.Realm)]
     public class A0001_RegisterHandler : AMRpcHandler<A0001_Register_C2R, A0001_Register_R2C>
     {

@@ -36,16 +36,12 @@ namespace ETModel
 		//-----------------------------------
 		// 小于这个Rpc会抛异常，大于这个异常的error需要自己判断处理，也就是说需要处理的错误应该要大于该值
 		public const int ERR_Exception = 200000;
-		
-		public const int ERR_AccountOrPasswordError = 200102;
 		//-----------------------------------
 
 		//自定义错误
-		public const int ERR_AccountAlreadyRegisted = 300001;
-		public const int ERR_RepeatedAccountExist = 300002;
-		public const int ERR_UserNotOnline = 300003;
-		public const int ERR_CreateNewCharacter = 300007;
 
+
+		//public const int ERR_Success = 0;
 
 		public static bool IsRpcNeedThrowException(int error)
 		{

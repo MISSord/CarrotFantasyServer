@@ -1,48 +1,50 @@
 {
   "format": 1,
   "restore": {
-    "D:\\wlm\\Server\\Server\\ET.Core\\Server.ET.Core.csproj": {}
+    "F:\\bishe\\CarrotFantasyServer\\Server\\ET.Core\\Server.ET.Core.csproj": {}
   },
   "projects": {
-    "D:\\wlm\\Server\\Server\\ET.Core\\Server.ET.Core.csproj": {
+    "F:\\bishe\\CarrotFantasyServer\\Server\\ET.Core\\Server.ET.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\wlm\\Server\\Server\\ET.Core\\Server.ET.Core.csproj",
+        "projectUniqueName": "F:\\bishe\\CarrotFantasyServer\\Server\\ET.Core\\Server.ET.Core.csproj",
         "projectName": "ET.Core",
-        "projectPath": "D:\\wlm\\Server\\Server\\ET.Core\\Server.ET.Core.csproj",
-        "packagesPath": "C:\\Users\\Administration\\.nuget\\packages\\",
-        "outputPath": "D:\\wlm\\Server\\Server\\ET.Core\\obj\\",
+        "projectPath": "F:\\bishe\\CarrotFantasyServer\\Server\\ET.Core\\Server.ET.Core.csproj",
+        "packagesPath": "C:\\Users\\ming1\\.nuget\\packages\\",
+        "outputPath": "F:\\bishe\\CarrotFantasyServer\\Server\\ET.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Administration\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ming1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp2.2": {
             "targetAlias": "netcoreapp2.2",
             "projectReferences": {
-              "D:\\wlm\\Server\\Server\\ThirdParty\\Google.Protobuf\\Google.Protobuf.csproj": {
-                "projectPath": "D:\\wlm\\Server\\Server\\ThirdParty\\Google.Protobuf\\Google.Protobuf.csproj"
+              "F:\\bishe\\CarrotFantasyServer\\Server\\ThirdParty\\Google.Protobuf\\Google.Protobuf.csproj": {
+                "projectPath": "F:\\bishe\\CarrotFantasyServer\\Server\\ThirdParty\\Google.Protobuf\\Google.Protobuf.csproj"
               },
-              "D:\\wlm\\Server\\Server\\ThirdParty\\KcpLib\\KcpLib.csproj": {
-                "projectPath": "D:\\wlm\\Server\\Server\\ThirdParty\\KcpLib\\KcpLib.csproj"
+              "F:\\bishe\\CarrotFantasyServer\\Server\\ThirdParty\\KcpLib\\KcpLib.csproj": {
+                "projectPath": "F:\\bishe\\CarrotFantasyServer\\Server\\ThirdParty\\KcpLib\\KcpLib.csproj"
               },
-              "D:\\wlm\\Server\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Bson\\MongoDB.Bson.csproj": {
-                "projectPath": "D:\\wlm\\Server\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Bson\\MongoDB.Bson.csproj"
+              "F:\\bishe\\CarrotFantasyServer\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Bson\\MongoDB.Bson.csproj": {
+                "projectPath": "F:\\bishe\\CarrotFantasyServer\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Bson\\MongoDB.Bson.csproj"
               },
-              "D:\\wlm\\Server\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Driver.Core\\MongoDB.Driver.Core.csproj": {
-                "projectPath": "D:\\wlm\\Server\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Driver.Core\\MongoDB.Driver.Core.csproj"
+              "F:\\bishe\\CarrotFantasyServer\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Driver.Core\\MongoDB.Driver.Core.csproj": {
+                "projectPath": "F:\\bishe\\CarrotFantasyServer\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Driver.Core\\MongoDB.Driver.Core.csproj"
               },
-              "D:\\wlm\\Server\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Driver\\MongoDB.Driver.csproj": {
-                "projectPath": "D:\\wlm\\Server\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Driver\\MongoDB.Driver.csproj"
+              "F:\\bishe\\CarrotFantasyServer\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Driver\\MongoDB.Driver.csproj": {
+                "projectPath": "F:\\bishe\\CarrotFantasyServer\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Driver\\MongoDB.Driver.csproj"
               }
             }
           }
@@ -90,37 +92,39 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\wlm\\Server\\Server\\ThirdParty\\Google.Protobuf\\Google.Protobuf.csproj": {
+    "F:\\bishe\\CarrotFantasyServer\\Server\\ThirdParty\\Google.Protobuf\\Google.Protobuf.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\wlm\\Server\\Server\\ThirdParty\\Google.Protobuf\\Google.Protobuf.csproj",
+        "projectUniqueName": "F:\\bishe\\CarrotFantasyServer\\Server\\ThirdParty\\Google.Protobuf\\Google.Protobuf.csproj",
         "projectName": "Google.Protobuf",
-        "projectPath": "D:\\wlm\\Server\\Server\\ThirdParty\\Google.Protobuf\\Google.Protobuf.csproj",
-        "packagesPath": "C:\\Users\\Administration\\.nuget\\packages\\",
-        "outputPath": "D:\\wlm\\Server\\Server\\ThirdParty\\Google.Protobuf\\obj\\",
+        "projectPath": "F:\\bishe\\CarrotFantasyServer\\Server\\ThirdParty\\Google.Protobuf\\Google.Protobuf.csproj",
+        "packagesPath": "C:\\Users\\ming1\\.nuget\\packages\\",
+        "outputPath": "F:\\bishe\\CarrotFantasyServer\\Server\\ThirdParty\\Google.Protobuf\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Administration\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ming1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp2.2": {
             "targetAlias": "netcoreapp2.2",
             "projectReferences": {
-              "D:\\wlm\\Server\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Bson\\MongoDB.Bson.csproj": {
-                "projectPath": "D:\\wlm\\Server\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Bson\\MongoDB.Bson.csproj"
+              "F:\\bishe\\CarrotFantasyServer\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Bson\\MongoDB.Bson.csproj": {
+                "projectPath": "F:\\bishe\\CarrotFantasyServer\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Bson\\MongoDB.Bson.csproj"
               }
             }
           }
@@ -152,29 +156,31 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\wlm\\Server\\Server\\ThirdParty\\KcpLib\\KcpLib.csproj": {
+    "F:\\bishe\\CarrotFantasyServer\\Server\\ThirdParty\\KcpLib\\KcpLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\wlm\\Server\\Server\\ThirdParty\\KcpLib\\KcpLib.csproj",
+        "projectUniqueName": "F:\\bishe\\CarrotFantasyServer\\Server\\ThirdParty\\KcpLib\\KcpLib.csproj",
         "projectName": "KcpLib",
-        "projectPath": "D:\\wlm\\Server\\Server\\ThirdParty\\KcpLib\\KcpLib.csproj",
-        "packagesPath": "C:\\Users\\Administration\\.nuget\\packages\\",
-        "outputPath": "D:\\wlm\\Server\\Server\\ThirdParty\\KcpLib\\obj\\",
+        "projectPath": "F:\\bishe\\CarrotFantasyServer\\Server\\ThirdParty\\KcpLib\\KcpLib.csproj",
+        "packagesPath": "C:\\Users\\ming1\\.nuget\\packages\\",
+        "outputPath": "F:\\bishe\\CarrotFantasyServer\\Server\\ThirdParty\\KcpLib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Administration\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ming1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -210,29 +216,31 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\wlm\\Server\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Bson\\MongoDB.Bson.csproj": {
+    "F:\\bishe\\CarrotFantasyServer\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Bson\\MongoDB.Bson.csproj": {
       "version": "0.0.0-local",
       "restore": {
-        "projectUniqueName": "D:\\wlm\\Server\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Bson\\MongoDB.Bson.csproj",
+        "projectUniqueName": "F:\\bishe\\CarrotFantasyServer\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Bson\\MongoDB.Bson.csproj",
         "projectName": "MongoDB.Bson",
-        "projectPath": "D:\\wlm\\Server\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Bson\\MongoDB.Bson.csproj",
-        "packagesPath": "C:\\Users\\Administration\\.nuget\\packages\\",
-        "outputPath": "D:\\wlm\\Server\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Bson\\obj\\",
+        "projectPath": "F:\\bishe\\CarrotFantasyServer\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Bson\\MongoDB.Bson.csproj",
+        "packagesPath": "C:\\Users\\ming1\\.nuget\\packages\\",
+        "outputPath": "F:\\bishe\\CarrotFantasyServer\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Bson\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Administration\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ming1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -271,37 +279,39 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\wlm\\Server\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Driver.Core\\MongoDB.Driver.Core.csproj": {
+    "F:\\bishe\\CarrotFantasyServer\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Driver.Core\\MongoDB.Driver.Core.csproj": {
       "version": "0.0.0-local",
       "restore": {
-        "projectUniqueName": "D:\\wlm\\Server\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Driver.Core\\MongoDB.Driver.Core.csproj",
+        "projectUniqueName": "F:\\bishe\\CarrotFantasyServer\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Driver.Core\\MongoDB.Driver.Core.csproj",
         "projectName": "MongoDB.Driver.Core",
-        "projectPath": "D:\\wlm\\Server\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Driver.Core\\MongoDB.Driver.Core.csproj",
-        "packagesPath": "C:\\Users\\Administration\\.nuget\\packages\\",
-        "outputPath": "D:\\wlm\\Server\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Driver.Core\\obj\\",
+        "projectPath": "F:\\bishe\\CarrotFantasyServer\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Driver.Core\\MongoDB.Driver.Core.csproj",
+        "packagesPath": "C:\\Users\\ming1\\.nuget\\packages\\",
+        "outputPath": "F:\\bishe\\CarrotFantasyServer\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Driver.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Administration\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ming1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp2.2": {
             "targetAlias": "netcoreapp2.2",
             "projectReferences": {
-              "D:\\wlm\\Server\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Bson\\MongoDB.Bson.csproj": {
-                "projectPath": "D:\\wlm\\Server\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Bson\\MongoDB.Bson.csproj"
+              "F:\\bishe\\CarrotFantasyServer\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Bson\\MongoDB.Bson.csproj": {
+                "projectPath": "F:\\bishe\\CarrotFantasyServer\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Bson\\MongoDB.Bson.csproj"
               }
             }
           }
@@ -340,40 +350,42 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\wlm\\Server\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Driver\\MongoDB.Driver.csproj": {
+    "F:\\bishe\\CarrotFantasyServer\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Driver\\MongoDB.Driver.csproj": {
       "version": "0.0.0-local",
       "restore": {
-        "projectUniqueName": "D:\\wlm\\Server\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Driver\\MongoDB.Driver.csproj",
+        "projectUniqueName": "F:\\bishe\\CarrotFantasyServer\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Driver\\MongoDB.Driver.csproj",
         "projectName": "MongoDB.Driver",
-        "projectPath": "D:\\wlm\\Server\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Driver\\MongoDB.Driver.csproj",
-        "packagesPath": "C:\\Users\\Administration\\.nuget\\packages\\",
-        "outputPath": "D:\\wlm\\Server\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Driver\\obj\\",
+        "projectPath": "F:\\bishe\\CarrotFantasyServer\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Driver\\MongoDB.Driver.csproj",
+        "packagesPath": "C:\\Users\\ming1\\.nuget\\packages\\",
+        "outputPath": "F:\\bishe\\CarrotFantasyServer\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Driver\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Administration\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ming1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp2.2": {
             "targetAlias": "netcoreapp2.2",
             "projectReferences": {
-              "D:\\wlm\\Server\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Bson\\MongoDB.Bson.csproj": {
-                "projectPath": "D:\\wlm\\Server\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Bson\\MongoDB.Bson.csproj"
+              "F:\\bishe\\CarrotFantasyServer\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Bson\\MongoDB.Bson.csproj": {
+                "projectPath": "F:\\bishe\\CarrotFantasyServer\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Bson\\MongoDB.Bson.csproj"
               },
-              "D:\\wlm\\Server\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Driver.Core\\MongoDB.Driver.Core.csproj": {
-                "projectPath": "D:\\wlm\\Server\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Driver.Core\\MongoDB.Driver.Core.csproj"
+              "F:\\bishe\\CarrotFantasyServer\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Driver.Core\\MongoDB.Driver.Core.csproj": {
+                "projectPath": "F:\\bishe\\CarrotFantasyServer\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Driver.Core\\MongoDB.Driver.Core.csproj"
               }
             }
           }
@@ -408,7 +420,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,0 +1,14 @@
+2022-03-14 15:32:38.6294 AllServer 0001 System.Exception: AddComponent, component already exist, id: 1, component: DBComponent
+   at ETModel.Entity.AddComponent[K]() in F:\bishe\CarrotFantasyServer\Server\ET.Core\Base\Object\Entity.cs:line 98
+   at App.Program.Main(String[] args) in F:\bishe\CarrotFantasyServer\Server\App\Program.cs:line 85 
+ Main at offset 3593 in file:line:column F:\bishe\CarrotFantasyServer\Server\App\Program.cs:85:5
+Error at offset 124 in file:line:column F:\bishe\CarrotFantasyServer\Server\ET.Core\Base\Log.cs:32:4
+Error at offset 64 in file:line:column F:\bishe\CarrotFantasyServer\Server\ET.Core\Base\Logger\NLogAdapter.cs:32:4
+
+2022-03-14 15:34:42.9513 AllServer 0001 System.Exception: AddComponent, component already exist, id: 1, component: DBProxyComponent
+   at ETModel.Entity.AddComponent[K]() in F:\bishe\CarrotFantasyServer\Server\ET.Core\Base\Object\Entity.cs:line 98
+   at App.Program.Main(String[] args) in F:\bishe\CarrotFantasyServer\Server\App\Program.cs:line 86 
+ Main at offset 3593 in file:line:column F:\bishe\CarrotFantasyServer\Server\App\Program.cs:86:5
+Error at offset 124 in file:line:column F:\bishe\CarrotFantasyServer\Server\ET.Core\Base\Log.cs:32:4
+Error at offset 64 in file:line:column F:\bishe\CarrotFantasyServer\Server\ET.Core\Base\Logger\NLogAdapter.cs:32:4
+

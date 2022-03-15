@@ -11,3 +11,16 @@ D:\wlm\Landlords_Server01\Server\ET.Core\obj\Debug\Server.ET.Core.csproj.CoreCom
 D:\wlm\Landlords_Server01\Server\ET.Core\obj\Debug\Server.ET.Core.csproj.CopyComplete
 D:\wlm\Landlords_Server01\Server\ET.Core\obj\Debug\ET.Core.dll
 D:\wlm\Landlords_Server01\Server\ET.Core\obj\Debug\ET.Core.pdb
+F:\bishe\CarrotFantasyServer\Bin\libkcp.dylib
+F:\bishe\CarrotFantasyServer\Bin\libkcp.so
+F:\bishe\CarrotFantasyServer\Bin\ET.Core.deps.json
+F:\bishe\CarrotFantasyServer\Bin\ET.Core.dll
+F:\bishe\CarrotFantasyServer\Bin\ET.Core.pdb
+F:\bishe\CarrotFantasyServer\Server\ET.Core\obj\Debug\Server.ET.Core.csproj.AssemblyReference.cache
+F:\bishe\CarrotFantasyServer\Server\ET.Core\obj\Debug\Server.ET.Core.AssemblyInfoInputs.cache
+F:\bishe\CarrotFantasyServer\Server\ET.Core\obj\Debug\Server.ET.Core.AssemblyInfo.cs
+F:\bishe\CarrotFantasyServer\Server\ET.Core\obj\Debug\Server.ET.Core.csproj.CoreCompileInputs.cache
+F:\bishe\CarrotFantasyServer\Server\ET.Core\obj\Debug\Server.ET.Core.csproj.CopyComplete
+F:\bishe\CarrotFantasyServer\Server\ET.Core\obj\Debug\ET.Core.dll
+F:\bishe\CarrotFantasyServer\Server\ET.Core\obj\Debug\ET.Core.pdb
+F:\bishe\CarrotFantasyServer\Server\ET.Core\obj\Debug\Server.ET.Core.GeneratedMSBuildEditorConfig.editorconfig

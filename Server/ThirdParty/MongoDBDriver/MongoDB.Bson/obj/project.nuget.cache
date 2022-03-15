@@ -1,21 +1,21 @@
 {
   "version": 2,
-  "dgSpecHash": "v7S6ozAFEUfdGjc3A1aPocudB1Z18m2kZBPDeLb2nYpEaNtjhfDaReUOIhtxz/k8bo4OPVz8kwrb0YSTJxn2sw==",
+  "dgSpecHash": "c29seuR+3X619bx7qt3Rz4s7QlCkDMXuPDGQbx0P4LC6Dlz/Afqq3d+Cc4+LSw0oMFKK68rqVmqZdypWZgyiTw==",
   "success": true,
-  "projectFilePath": "D:\\wlm\\Server\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Bson\\MongoDB.Bson.csproj",
+  "projectFilePath": "F:\\bishe\\CarrotFantasyServer\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Bson\\MongoDB.Bson.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Administration\\.nuget\\packages\\microsoft.codeanalysis.fxcopanalyzers\\2.6.1\\microsoft.codeanalysis.fxcopanalyzers.2.6.1.nupkg.sha512",
-    "C:\\Users\\Administration\\.nuget\\packages\\microsoft.codequality.analyzers\\2.6.1\\microsoft.codequality.analyzers.2.6.1.nupkg.sha512",
-    "C:\\Users\\Administration\\.nuget\\packages\\microsoft.netcore.analyzers\\2.6.1\\microsoft.netcore.analyzers.2.6.1.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.dotnetapphost\\2.2.0\\microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.dotnethostpolicy\\2.2.0\\microsoft.netcore.dotnethostpolicy.2.2.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.dotnethostresolver\\2.2.0\\microsoft.netcore.dotnethostresolver.2.2.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\2.2.0\\microsoft.netcore.platforms.2.2.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.targets\\2.0.0\\microsoft.netcore.targets.2.0.0.nupkg.sha512",
-    "C:\\Users\\Administration\\.nuget\\packages\\microsoft.netframework.analyzers\\2.6.1\\microsoft.netframework.analyzers.2.6.1.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
-    "C:\\Users\\Administration\\.nuget\\packages\\text.analyzers\\2.6.1\\text.analyzers.2.6.1.nupkg.sha512"
+    "C:\\Users\\ming1\\.nuget\\packages\\microsoft.codeanalysis.fxcopanalyzers\\2.6.1\\microsoft.codeanalysis.fxcopanalyzers.2.6.1.nupkg.sha512",
+    "C:\\Users\\ming1\\.nuget\\packages\\microsoft.codequality.analyzers\\2.6.1\\microsoft.codequality.analyzers.2.6.1.nupkg.sha512",
+    "C:\\Users\\ming1\\.nuget\\packages\\microsoft.netcore.analyzers\\2.6.1\\microsoft.netcore.analyzers.2.6.1.nupkg.sha512",
+    "C:\\Users\\ming1\\.nuget\\packages\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",
+    "C:\\Users\\ming1\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.2.0\\microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",
+    "C:\\Users\\ming1\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.2.0\\microsoft.netcore.dotnethostpolicy.2.2.0.nupkg.sha512",
+    "C:\\Users\\ming1\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.2.0\\microsoft.netcore.dotnethostresolver.2.2.0.nupkg.sha512",
+    "C:\\Users\\ming1\\.nuget\\packages\\microsoft.netcore.platforms\\2.2.0\\microsoft.netcore.platforms.2.2.0.nupkg.sha512",
+    "C:\\Users\\ming1\\.nuget\\packages\\microsoft.netcore.targets\\2.0.0\\microsoft.netcore.targets.2.0.0.nupkg.sha512",
+    "C:\\Users\\ming1\\.nuget\\packages\\microsoft.netframework.analyzers\\2.6.1\\microsoft.netframework.analyzers.2.6.1.nupkg.sha512",
+    "C:\\Users\\ming1\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\ming1\\.nuget\\packages\\text.analyzers\\2.6.1\\text.analyzers.2.6.1.nupkg.sha512"
   ],
   "logs": []
 }

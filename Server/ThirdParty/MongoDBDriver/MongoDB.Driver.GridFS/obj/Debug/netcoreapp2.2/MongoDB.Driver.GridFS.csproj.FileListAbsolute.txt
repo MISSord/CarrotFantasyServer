@@ -32,3 +32,16 @@ D:\Users\taikr008\Desktop\Landlords_Server01\Server\ThirdParty\MongoDBDriver\Mon
 D:\Users\taikr008\Desktop\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Driver.GridFS\obj\Debug\netcoreapp2.2\MongoDB.Driver.GridFS.dll
 D:\Users\taikr008\Desktop\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Driver.GridFS\obj\Debug\netcoreapp2.2\MongoDB.Driver.GridFS.xml
 D:\Users\taikr008\Desktop\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Driver.GridFS\obj\Debug\netcoreapp2.2\MongoDB.Driver.GridFS.pdb
+F:\bishe\CarrotFantasyServer\Bin\netcoreapp2.2\MongoDB.Driver.GridFS.deps.json
+F:\bishe\CarrotFantasyServer\Bin\netcoreapp2.2\MongoDB.Driver.GridFS.dll
+F:\bishe\CarrotFantasyServer\Bin\netcoreapp2.2\MongoDB.Driver.GridFS.pdb
+F:\bishe\CarrotFantasyServer\Bin\netcoreapp2.2\MongoDB.Driver.GridFS.xml
+F:\bishe\CarrotFantasyServer\Server\ThirdParty\MongoDBDriver\MongoDB.Driver.GridFS\obj\Debug\netcoreapp2.2\MongoDB.Driver.GridFS.csproj.AssemblyReference.cache
+F:\bishe\CarrotFantasyServer\Server\ThirdParty\MongoDBDriver\MongoDB.Driver.GridFS\obj\Debug\netcoreapp2.2\MongoDB.Driver.GridFS.GeneratedMSBuildEditorConfig.editorconfig
+F:\bishe\CarrotFantasyServer\Server\ThirdParty\MongoDBDriver\MongoDB.Driver.GridFS\obj\Debug\netcoreapp2.2\MongoDB.Driver.GridFS.AssemblyInfoInputs.cache
+F:\bishe\CarrotFantasyServer\Server\ThirdParty\MongoDBDriver\MongoDB.Driver.GridFS\obj\Debug\netcoreapp2.2\MongoDB.Driver.GridFS.AssemblyInfo.cs
+F:\bishe\CarrotFantasyServer\Server\ThirdParty\MongoDBDriver\MongoDB.Driver.GridFS\obj\Debug\netcoreapp2.2\MongoDB.Driver.GridFS.csproj.CoreCompileInputs.cache
+F:\bishe\CarrotFantasyServer\Server\ThirdParty\MongoDBDriver\MongoDB.Driver.GridFS\obj\Debug\netcoreapp2.2\MongoDB.Driver.GridFS.csproj.CopyComplete
+F:\bishe\CarrotFantasyServer\Server\ThirdParty\MongoDBDriver\MongoDB.Driver.GridFS\obj\Debug\netcoreapp2.2\MongoDB.Driver.GridFS.dll
+F:\bishe\CarrotFantasyServer\Server\ThirdParty\MongoDBDriver\MongoDB.Driver.GridFS\obj\Debug\netcoreapp2.2\MongoDB.Driver.GridFS.xml
+F:\bishe\CarrotFantasyServer\Server\ThirdParty\MongoDBDriver\MongoDB.Driver.GridFS\obj\Debug\netcoreapp2.2\MongoDB.Driver.GridFS.pdb

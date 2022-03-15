@@ -47,8 +47,4 @@
       <HintPath>..\ThirdParty\Pathfinding.Ionic.Zip.Reduced.dll</HintPath>
     </Reference>
   </ItemGroup>
- 
-  <ItemGroup>
-    <Folder Include="Landlords\" />
-  </ItemGroup>
 </Project>

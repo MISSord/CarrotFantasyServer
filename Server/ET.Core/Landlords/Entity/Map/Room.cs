@@ -6,7 +6,7 @@ namespace ETModel
     /// <summary>
     /// 房间对象
     /// </summary>
-    public sealed class LandlordsRoom : Entity
+    public sealed class Room : Entity
     {
         /// <summary>
         /// 当前房间的3个座位 UserID/seatIndex

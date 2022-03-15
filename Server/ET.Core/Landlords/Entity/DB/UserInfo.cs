@@ -20,24 +20,24 @@ namespace ETModel
         //昵称
         public string UserName { get; set; }
 
-        //等级
-        public int Level { get; set; }
-
         //余额
-        public long Money { get; set; }
-
-
-        //上次游戏角色序列 1/2/3
-        public int LastPlay { get; set; }
+        public string MapInfo { get; set; }
 
         //public List<Ca>
         public void Awake(string name)
         {
             UserName = name;
-            Level = 1;
-            Money = 10000;
-            LastPlay = 0;
+            MapInfo = MapInfoHelper.getInitMapInfo();
         }
 
+    }
+
+    public class SingleMapInfo 
+    {
+        public int isAllClear;//是否清空此关卡道具 1为清空2为没有清空
+        public int carrotState;//萝卜状态
+        public int levelId;//小关卡ID
+        public int bigLevelId;//大关卡ID
+        public int unLocked;//此关卡是否解锁 1为解锁 2为未解锁
     }
 }

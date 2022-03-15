@@ -40,3 +40,14 @@ D:\wlm\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Bson\obj\Debug
 D:\wlm\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Bson\obj\Debug\netcoreapp2.2\MongoDB.Bson.dll
 D:\wlm\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Bson\obj\Debug\netcoreapp2.2\MongoDB.Bson.xml
 D:\wlm\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Bson\obj\Debug\netcoreapp2.2\MongoDB.Bson.pdb
+F:\bishe\CarrotFantasyServer\Bin\netcoreapp2.2\MongoDB.Bson.deps.json
+F:\bishe\CarrotFantasyServer\Bin\netcoreapp2.2\MongoDB.Bson.dll
+F:\bishe\CarrotFantasyServer\Bin\netcoreapp2.2\MongoDB.Bson.pdb
+F:\bishe\CarrotFantasyServer\Bin\netcoreapp2.2\MongoDB.Bson.xml
+F:\bishe\CarrotFantasyServer\Server\ThirdParty\MongoDBDriver\MongoDB.Bson\obj\Debug\netcoreapp2.2\MongoDB.Bson.AssemblyInfoInputs.cache
+F:\bishe\CarrotFantasyServer\Server\ThirdParty\MongoDBDriver\MongoDB.Bson\obj\Debug\netcoreapp2.2\MongoDB.Bson.AssemblyInfo.cs
+F:\bishe\CarrotFantasyServer\Server\ThirdParty\MongoDBDriver\MongoDB.Bson\obj\Debug\netcoreapp2.2\MongoDB.Bson.csproj.CoreCompileInputs.cache
+F:\bishe\CarrotFantasyServer\Server\ThirdParty\MongoDBDriver\MongoDB.Bson\obj\Debug\netcoreapp2.2\MongoDB.Bson.dll
+F:\bishe\CarrotFantasyServer\Server\ThirdParty\MongoDBDriver\MongoDB.Bson\obj\Debug\netcoreapp2.2\MongoDB.Bson.xml
+F:\bishe\CarrotFantasyServer\Server\ThirdParty\MongoDBDriver\MongoDB.Bson\obj\Debug\netcoreapp2.2\MongoDB.Bson.pdb
+F:\bishe\CarrotFantasyServer\Server\ThirdParty\MongoDBDriver\MongoDB.Bson\obj\Debug\netcoreapp2.2\MongoDB.Bson.GeneratedMSBuildEditorConfig.editorconfig

@@ -11,3 +11,16 @@ D:\wlm\Landlords_Server01\Server\Hotfix\obj\Debug\Server.Hotfix.csproj.CoreCompi
 D:\wlm\Landlords_Server01\Server\Hotfix\obj\Debug\Server.Hotfix.csproj.CopyComplete
 D:\wlm\Landlords_Server01\Server\Hotfix\obj\Debug\Hotfix.dll
 D:\wlm\Landlords_Server01\Server\Hotfix\obj\Debug\Hotfix.pdb
+F:\bishe\CarrotFantasyServer\Server\Hotfix\obj\Debug\Server.Hotfix.csproj.AssemblyReference.cache
+F:\bishe\CarrotFantasyServer\Server\Hotfix\obj\Debug\Server.Hotfix.AssemblyInfoInputs.cache
+F:\bishe\CarrotFantasyServer\Server\Hotfix\obj\Debug\Server.Hotfix.AssemblyInfo.cs
+F:\bishe\CarrotFantasyServer\Server\Hotfix\obj\Debug\Server.Hotfix.csproj.CoreCompileInputs.cache
+F:\bishe\CarrotFantasyServer\Server\Hotfix\obj\Debug\Hotfix.dll
+F:\bishe\CarrotFantasyServer\Server\Hotfix\obj\Debug\Hotfix.pdb
+F:\bishe\CarrotFantasyServer\Server\Hotfix\obj\Debug\Server.Hotfix.GeneratedMSBuildEditorConfig.editorconfig
+F:\bishe\CarrotFantasyServer\Bin\libkcp.dylib
+F:\bishe\CarrotFantasyServer\Bin\libkcp.so
+F:\bishe\CarrotFantasyServer\Bin\Hotfix.deps.json
+F:\bishe\CarrotFantasyServer\Bin\Hotfix.dll
+F:\bishe\CarrotFantasyServer\Bin\Hotfix.pdb
+F:\bishe\CarrotFantasyServer\Server\Hotfix\obj\Debug\Server.Hotfix.csproj.CopyComplete

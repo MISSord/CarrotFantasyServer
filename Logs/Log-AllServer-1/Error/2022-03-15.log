@@ -1,0 +1,17 @@
+2022-03-15 12:50:29.5645 AllServer 0001 System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ETModel.MapInfoHelper.getInitMapInfo() in F:\bishe\CarrotFantasyServer\Server\ET.Core\Landlords\Component\MapInfoHelper.cs:line 31
+   at ETModel.UserInfo.Awake(String name) in F:\bishe\CarrotFantasyServer\Server\ET.Core\Landlords\Entity\DB\UserInfo.cs:line 30
+   at ETModel.UserInfoAwakeSystem.Awake(UserInfo self, String name) in F:\bishe\CarrotFantasyServer\Server\ET.Core\Landlords\Entity\DB\UserInfo.cs:line 11
+   at ETModel.AwakeSystem`2.Run(Object o, A a) in F:\bishe\CarrotFantasyServer\Server\ET.Core\Base\Object\IAwakeSystem.cs:line 54
+   at ETModel.EventSystem.Awake[P1](Component component, P1 p1) in F:\bishe\CarrotFantasyServer\Server\ET.Core\Base\Object\EventSystem.cs:line 283 
+ TrySetResult at offset 141 in file:line:column <filename unknown>:0:0
+RunContinuations at offset 440 in file:line:column <filename unknown>:0:0
+RunCallback at offset 71 in file:line:column <filename unknown>:0:0
+<OutputWaitEtwEvents>b__12_0 at offset 323 in file:line:column <filename unknown>:0:0
+Run at offset 73 in file:line:column F:\bishe\CarrotFantasyServer\Server\ET.Core\Base\Async\MoveNextRunner.cs:12:13
+MoveNext at offset 1648 in file:line:column F:\bishe\CarrotFantasyServer\Server\Hotfix\Handler\A0001_RegisterHandler.cs:43:17
+CreateWithId<T,A> at offset 503 in file:line:column F:\bishe\CarrotFantasyServer\Server\ET.Core\Base\Object\ComponentFactory.cs:264:4
+Awake<P1> at offset 528 in file:line:column F:\bishe\CarrotFantasyServer\Server\ET.Core\Base\Object\EventSystem.cs:283:6
+Error at offset 124 in file:line:column F:\bishe\CarrotFantasyServer\Server\ET.Core\Base\Log.cs:32:4
+Error at offset 64 in file:line:column F:\bishe\CarrotFantasyServer\Server\ET.Core\Base\Logger\NLogAdapter.cs:32:4
+

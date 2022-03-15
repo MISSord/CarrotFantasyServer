@@ -45,3 +45,16 @@ D:\wlm\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Driver.Core\ob
 D:\wlm\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Driver.Core\obj\Debug\netcoreapp2.2\MongoDB.Driver.Core.dll
 D:\wlm\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Driver.Core\obj\Debug\netcoreapp2.2\MongoDB.Driver.Core.xml
 D:\wlm\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Driver.Core\obj\Debug\netcoreapp2.2\MongoDB.Driver.Core.pdb
+F:\bishe\CarrotFantasyServer\Bin\netcoreapp2.2\MongoDB.Driver.Core.deps.json
+F:\bishe\CarrotFantasyServer\Bin\netcoreapp2.2\MongoDB.Driver.Core.dll
+F:\bishe\CarrotFantasyServer\Bin\netcoreapp2.2\MongoDB.Driver.Core.pdb
+F:\bishe\CarrotFantasyServer\Bin\netcoreapp2.2\MongoDB.Driver.Core.xml
+F:\bishe\CarrotFantasyServer\Server\ThirdParty\MongoDBDriver\MongoDB.Driver.Core\obj\Debug\netcoreapp2.2\MongoDB.Driver.Core.csproj.AssemblyReference.cache
+F:\bishe\CarrotFantasyServer\Server\ThirdParty\MongoDBDriver\MongoDB.Driver.Core\obj\Debug\netcoreapp2.2\MongoDB.Driver.Core.AssemblyInfoInputs.cache
+F:\bishe\CarrotFantasyServer\Server\ThirdParty\MongoDBDriver\MongoDB.Driver.Core\obj\Debug\netcoreapp2.2\MongoDB.Driver.Core.AssemblyInfo.cs
+F:\bishe\CarrotFantasyServer\Server\ThirdParty\MongoDBDriver\MongoDB.Driver.Core\obj\Debug\netcoreapp2.2\MongoDB.Driver.Core.csproj.CoreCompileInputs.cache
+F:\bishe\CarrotFantasyServer\Server\ThirdParty\MongoDBDriver\MongoDB.Driver.Core\obj\Debug\netcoreapp2.2\MongoDB.Driver.Core.csproj.CopyComplete
+F:\bishe\CarrotFantasyServer\Server\ThirdParty\MongoDBDriver\MongoDB.Driver.Core\obj\Debug\netcoreapp2.2\MongoDB.Driver.Core.dll
+F:\bishe\CarrotFantasyServer\Server\ThirdParty\MongoDBDriver\MongoDB.Driver.Core\obj\Debug\netcoreapp2.2\MongoDB.Driver.Core.xml
+F:\bishe\CarrotFantasyServer\Server\ThirdParty\MongoDBDriver\MongoDB.Driver.Core\obj\Debug\netcoreapp2.2\MongoDB.Driver.Core.pdb
+F:\bishe\CarrotFantasyServer\Server\ThirdParty\MongoDBDriver\MongoDB.Driver.Core\obj\Debug\netcoreapp2.2\MongoDB.Driver.Core.GeneratedMSBuildEditorConfig.editorconfig

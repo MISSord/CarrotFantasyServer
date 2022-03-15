@@ -21,3 +21,14 @@ D:\wlm\Landlords_Server01\Server\ThirdParty\KcpLib\obj\Debug\KcpLib.AssemblyInfo
 D:\wlm\Landlords_Server01\Server\ThirdParty\KcpLib\obj\Debug\KcpLib.csproj.CoreCompileInputs.cache
 D:\wlm\Landlords_Server01\Server\ThirdParty\KcpLib\obj\Debug\KcpLib.dll
 D:\wlm\Landlords_Server01\Server\ThirdParty\KcpLib\obj\Debug\KcpLib.pdb
+F:\bishe\CarrotFantasyServer\Bin\libkcp.dylib
+F:\bishe\CarrotFantasyServer\Bin\libkcp.so
+F:\bishe\CarrotFantasyServer\Bin\KcpLib.deps.json
+F:\bishe\CarrotFantasyServer\Bin\KcpLib.dll
+F:\bishe\CarrotFantasyServer\Bin\KcpLib.pdb
+F:\bishe\CarrotFantasyServer\Server\ThirdParty\KcpLib\obj\Debug\KcpLib.AssemblyInfoInputs.cache
+F:\bishe\CarrotFantasyServer\Server\ThirdParty\KcpLib\obj\Debug\KcpLib.AssemblyInfo.cs
+F:\bishe\CarrotFantasyServer\Server\ThirdParty\KcpLib\obj\Debug\KcpLib.csproj.CoreCompileInputs.cache
+F:\bishe\CarrotFantasyServer\Server\ThirdParty\KcpLib\obj\Debug\KcpLib.dll
+F:\bishe\CarrotFantasyServer\Server\ThirdParty\KcpLib\obj\Debug\KcpLib.pdb
+F:\bishe\CarrotFantasyServer\Server\ThirdParty\KcpLib\obj\Debug\KcpLib.GeneratedMSBuildEditorConfig.editorconfig
